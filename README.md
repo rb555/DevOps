@@ -16,7 +16,7 @@ Dive into a world of hands-on exercises to master essential DevOps skills. This 
 2. **Install prerequisites:** Ensure you have Git, Bash, and Python installed.
 3. **Explore the exercises:** Follow the instructions in each folder to complete the exercises.
 
-https://github.com/rb555/DevOps/blob/main/Captura%20de%20pantalla%202024-08-16%20152922.jpg
+
 **Contributing:**
 
 We welcome contributions from the community! Feel free to submit new exercises, bug fixes, or improvements. Please refer to our [CONTRIBUTING.md] file for guidelines.
